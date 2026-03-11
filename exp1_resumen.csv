@@ -1,0 +1,3 @@
+run_id,vars,clauses,reps,seed,split_var,fixed,force_unsat,simulate_ms,total_wall_sec,avg_rep_sec,avg_worker_compute_sec,max_worker_compute_sec,sat_repetitions,total_nodes,total_clause_checks,max_rss_kb,total_messages,total_bytes
+20260311_123856,30,126,20,7,1,0,0,0,3.12801,0.1564,0.105545,0.455729,10,3663682,337778267,11460,82,2256
+20260311_124310,30,126,20,7,1,0,0,0,2.99098,0.149549,0.106299,0.52658,10,3663682,337778267,11460,82,2256

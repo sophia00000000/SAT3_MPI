@@ -1,0 +1,101 @@
+CSV detalle: exp2_detalle.csv
+CSV resumen: exp2_resumen.csv
+Run ID: 20260311_124829
+Manager iniciado
+Config: vars=40, clauses=180, reps=20, seed=7, splitVar=1, fixed=0, forceUnsat=0, simulateMs=0, csv=on
+Rep 0 | Worker1 | x1=0 | UNSAT | t=3.137 s | nodos=2044179 | checks=278028310 | maxRSS=11320 KB
+Rep 0 | Worker2 | x1=1 | UNSAT | t=4.50573 s | nodos=3053497 | checks=400392552 | maxRSS=11168 KB
+Rep 0 -> Resultado global 3-SAT: UNSAT
+Rep 1 | Worker2 | x1=1 | SAT | t=0.546125 s | nodos=389078 | checks=49425487 | maxRSS=11296 KB
+Rep 1 | Worker1 | x1=0 | UNSAT | t=1.2784 s | nodos=914883 | checks=115376586 | maxRSS=11320 KB
+Rep 1 -> Resultado global 3-SAT: SAT
+Rep 2 | Worker1 | x1=0 | UNSAT | t=4.43954 s | nodos=3317985 | checks=436731714 | maxRSS=11320 KB
+Rep 2 | Worker2 | x1=1 | UNSAT | t=5.22771 s | nodos=3852255 | checks=499958073 | maxRSS=11296 KB
+Rep 2 -> Resultado global 3-SAT: UNSAT
+Rep 3 | Worker1 | x1=0 | UNSAT | t=0.928308 s | nodos=629661 | checks=80768037 | maxRSS=11320 KB
+Rep 3 | Worker2 | x1=1 | UNSAT | t=2.76571 s | nodos=1934607 | checks=254860663 | maxRSS=11296 KB
+Rep 3 -> Resultado global 3-SAT: UNSAT
+Rep 4 | Worker2 | x1=1 | SAT | t=1.64062 s | nodos=1116052 | checks=147581041 | maxRSS=11296 KB
+Rep 4 | Worker1 | x1=0 | UNSAT | t=2.38628 s | nodos=1731427 | checks=221362683 | maxRSS=11320 KB
+Rep 4 -> Resultado global 3-SAT: SAT
+Rep 5 | Worker2 | x1=1 | UNSAT | t=1.45117 s | nodos=965827 | checks=121359796 | maxRSS=11296 KB
+Rep 5 | Worker1 | x1=0 | UNSAT | t=1.60001 s | nodos=1091693 | checks=139905331 | maxRSS=11320 KB
+Rep 5 -> Resultado global 3-SAT: UNSAT
+Rep 6 | Worker1 | x1=0 | UNSAT | t=0.141978 s | nodos=107157 | checks=13720710 | maxRSS=11320 KB
+Rep 6 | Worker2 | x1=1 | UNSAT | t=0.30308 s | nodos=231859 | checks=29814486 | maxRSS=11296 KB
+Rep 6 -> Resultado global 3-SAT: UNSAT
+Rep 7 | Worker1 | x1=0 | SAT | t=0.343075 s | nodos=242554 | checks=33176643 | maxRSS=11320 KB
+Rep 7 | Worker2 | x1=1 | SAT | t=0.685846 s | nodos=509325 | checks=65899895 | maxRSS=11296 KB
+Rep 7 -> Resultado global 3-SAT: SAT
+Rep 8 | Worker2 | x1=1 | UNSAT | t=1.97584 s | nodos=1416927 | checks=188702876 | maxRSS=11296 KB
+Rep 8 | Worker1 | x1=0 | UNSAT | t=3.16949 s | nodos=2446217 | checks=323512043 | maxRSS=11320 KB
+Rep 8 -> Resultado global 3-SAT: UNSAT
+Rep 9 | Worker1 | x1=0 | SAT | t=0.131026 s | nodos=94377 | checks=12474970 | maxRSS=11320 KB
+Rep 9 | Worker2 | x1=1 | UNSAT | t=0.393155 s | nodos=287561 | checks=38685950 | maxRSS=11296 KB
+Rep 9 -> Resultado global 3-SAT: SAT
+Rep 10 | Worker1 | x1=0 | UNSAT | t=1.18518 s | nodos=778803 | checks=100548633 | maxRSS=11320 KB
+Rep 10 | Worker2 | x1=1 | UNSAT | t=2.41246 s | nodos=1602453 | checks=208780126 | maxRSS=11296 KB
+Rep 10 -> Resultado global 3-SAT: UNSAT
+Rep 11 | Worker1 | x1=0 | UNSAT | t=1.24313 s | nodos=766385 | checks=99630744 | maxRSS=11320 KB
+Rep 11 | Worker2 | x1=1 | UNSAT | t=2.44974 s | nodos=1464959 | checks=197234403 | maxRSS=11296 KB
+Rep 11 -> Resultado global 3-SAT: UNSAT
+Rep 12 | Worker1 | x1=0 | UNSAT | t=0.425017 s | nodos=316661 | checks=40107379 | maxRSS=11320 KB
+Rep 12 | Worker2 | x1=1 | UNSAT | t=0.609867 s | nodos=431269 | checks=54267455 | maxRSS=11296 KB
+Rep 12 -> Resultado global 3-SAT: UNSAT
+Rep 13 | Worker2 | x1=1 | UNSAT | t=3.18124 s | nodos=2241191 | checks=279757503 | maxRSS=11296 KB
+Rep 13 | Worker1 | x1=0 | UNSAT | t=4.39994 s | nodos=2898613 | checks=400095470 | maxRSS=11320 KB
+Rep 13 -> Resultado global 3-SAT: UNSAT
+Rep 14 | Worker2 | x1=1 | UNSAT | t=2.78088 s | nodos=1933159 | checks=253708193 | maxRSS=11296 KB
+Rep 14 | Worker1 | x1=0 | UNSAT | t=3.06773 s | nodos=2088689 | checks=269209917 | maxRSS=11320 KB
+Rep 14 -> Resultado global 3-SAT: UNSAT
+Rep 15 | Worker2 | x1=1 | UNSAT | t=1.90609 s | nodos=1209657 | checks=164104427 | maxRSS=11296 KB
+Rep 15 | Worker1 | x1=0 | UNSAT | t=2.03733 s | nodos=1270511 | checks=173546558 | maxRSS=11320 KB
+Rep 15 -> Resultado global 3-SAT: UNSAT
+Rep 16 | Worker2 | x1=1 | UNSAT | t=0.919022 s | nodos=574567 | checks=75186647 | maxRSS=11296 KB
+Rep 16 | Worker1 | x1=0 | UNSAT | t=1.63603 s | nodos=1022999 | checks=134919074 | maxRSS=11320 KB
+Rep 16 -> Resultado global 3-SAT: UNSAT
+Rep 17 | Worker2 | x1=1 | SAT | t=3.45887 s | nodos=2118459 | checks=287788918 | maxRSS=11296 KB
+Rep 17 | Worker1 | x1=0 | UNSAT | t=4.72564 s | nodos=2861811 | checks=384400818 | maxRSS=11320 KB
+Rep 17 -> Resultado global 3-SAT: SAT
+Rep 18 | Worker2 | x1=1 | SAT | t=0.152929 s | nodos=98838 | checks=12050476 | maxRSS=11296 KB
+Rep 18 | Worker1 | x1=0 | SAT | t=0.198518 s | nodos=129044 | checks=15663044 | maxRSS=11320 KB
+Rep 18 -> Resultado global 3-SAT: SAT
+Rep 19 | Worker1 | x1=0 | UNSAT | t=2.33494 s | nodos=1524011 | checks=200325447 | maxRSS=11320 KB
+Rep 19 | Worker2 | x1=1 | UNSAT | t=2.36348 s | nodos=1524839 | checks=198347383 | maxRSS=11296 KB
+Rep 19 -> Resultado global 3-SAT: UNSAT
+
+===== RESUMEN MEDICION =====
+Tiempo total manager: 46.3065 s
+Promedio por repeticion: 2.31533 s
+Tiempo promedio de compute por worker: 1.96345 s
+Tiempo maximo de compute en un worker: 5.22771 s
+Repeticiones SAT: 6/20
+Nodos DPLL totales: 53234039
+Chequeos de clausulas totales: 7001410461
+Max RSS observado: 11320 KB
+Mensajes MPI (aprox): 82
+Trafico MPI util (aprox): 2256 bytes
+============================
+	Command being timed: "mpirun -np 3 --hostfile hosts.txt ./sat3 --vars 40 --clauses 180 --reps 20 --seed 7 --csv-prefix exp2"
+	User time (seconds): 19.96
+	System time (seconds): 26.40
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:47.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14872
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3242
+	Voluntary context switches: 584
+	Involuntary context switches: 1369
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 40
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

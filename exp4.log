@@ -1,0 +1,40 @@
+CSV detalle: exp4_detalle.csv
+CSV resumen: exp4_resumen.csv
+Run ID: 20260311_134907
+Manager iniciado
+Config: vars=40, clauses=180, reps=20, seed=7, splitVar=1, fixed=0, forceUnsat=0, simulateMs=0, csv=on
+Rep 0 | Worker2 | x1=1 | UNSAT | t=2.83495 s | nodos=3053497 | checks=400392552 | maxRSS=11324 KB
+Rep 0 | Worker1 | x1=0 | UNSAT | t=3.74111 s | nodos=2044179 | checks=278028310 | maxRSS=11296 KB
+Rep 0 -> Resultado global 3-SAT: UNSAT
+Rep 1 | Worker2 | x1=1 | SAT | t=0.453429 s | nodos=389078 | checks=49425487 | maxRSS=11324 KB
+Rep 1 | Worker1 | x1=0 | UNSAT | t=1.86074 s | nodos=914883 | checks=115376586 | maxRSS=11296 KB
+Rep 1 -> Resultado global 3-SAT: SAT
+Connection to clon2 closed by remote host.
+[mpiexec@emisor-VirtualBox] control_cb (mpiexec/pmiserv_cb.c:280): assert (!closed) failed
+[mpiexec@emisor-VirtualBox] HYDT_dmxu_poll_wait_for_event (lib/tools/demux/demux_poll.c:76): callback returned error status
+[mpiexec@emisor-VirtualBox] HYD_pmci_wait_for_completion (mpiexec/pmiserv_pmci.c:180): error waiting for event
+[mpiexec@emisor-VirtualBox] main (mpiexec/mpiexec.c:261): process manager error waiting for completion
+Command exited with non-zero status 255
+	Command being timed: "mpirun -np 3 --hostfile hosts.txt ./sat3 --vars 40 --clauses 180 --reps 20 --seed 7 --csv-prefix exp4"
+	User time (seconds): 0.03
+	System time (seconds): 0.05
+	Percent of CPU this job got: 1%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 712
+	Voluntary context switches: 47
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 255

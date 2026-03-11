@@ -1,0 +1,101 @@
+CSV detalle: exp1_detalle.csv
+CSV resumen: exp1_resumen.csv
+Run ID: 20260311_124310
+Manager iniciado
+Config: vars=30, clauses=126, reps=20, seed=7, splitVar=1, fixed=0, forceUnsat=0, simulateMs=0, csv=on
+Rep 0 | Worker1 | x1=0 | UNSAT | t=0.0886533 s | nodos=87801 | checks=8023633 | maxRSS=11332 KB
+Rep 0 | Worker2 | x1=1 | UNSAT | t=0.109934 s | nodos=113979 | checks=10064043 | maxRSS=11332 KB
+Rep 0 -> Resultado global 3-SAT: UNSAT
+Rep 1 | Worker1 | x1=0 | UNSAT | t=0.0959101 s | nodos=87831 | checks=8345003 | maxRSS=11460 KB
+Rep 1 | Worker2 | x1=1 | UNSAT | t=0.179626 s | nodos=157215 | checks=15530263 | maxRSS=11460 KB
+Rep 1 -> Resultado global 3-SAT: UNSAT
+Rep 2 | Worker2 | x1=1 | UNSAT | t=0.158381 s | nodos=177895 | checks=16455438 | maxRSS=11460 KB
+Rep 2 | Worker1 | x1=0 | SAT | t=0.274672 s | nodos=263829 | checks=24704339 | maxRSS=11460 KB
+Rep 2 -> Resultado global 3-SAT: SAT
+Rep 3 | Worker2 | x1=1 | SAT | t=0.0284111 s | nodos=28034 | checks=2485924 | maxRSS=11460 KB
+Rep 3 | Worker1 | x1=0 | UNSAT | t=0.0562293 s | nodos=22459 | checks=2022737 | maxRSS=11460 KB
+Rep 3 -> Resultado global 3-SAT: SAT
+Rep 4 | Worker2 | x1=1 | UNSAT | t=0.115505 s | nodos=107835 | checks=10302929 | maxRSS=11460 KB
+Rep 4 | Worker1 | x1=0 | UNSAT | t=0.14638 s | nodos=133009 | checks=12831912 | maxRSS=11460 KB
+Rep 4 -> Resultado global 3-SAT: UNSAT
+Rep 5 | Worker2 | x1=1 | SAT | t=0.0154073 s | nodos=14157 | checks=1281202 | maxRSS=11460 KB
+Rep 5 | Worker1 | x1=0 | UNSAT | t=0.176351 s | nodos=163175 | checks=14874666 | maxRSS=11460 KB
+Rep 5 -> Resultado global 3-SAT: SAT
+Rep 6 | Worker2 | x1=1 | SAT | t=0.00737372 s | nodos=8439 | checks=731061 | maxRSS=11460 KB
+Rep 6 | Worker1 | x1=0 | SAT | t=0.0454338 s | nodos=18613 | checks=1680388 | maxRSS=11460 KB
+Rep 6 -> Resultado global 3-SAT: SAT
+Rep 7 | Worker1 | x1=0 | SAT | t=0.0176354 s | nodos=11631 | checks=1123587 | maxRSS=11460 KB
+Rep 7 | Worker2 | x1=1 | SAT | t=0.0338283 s | nodos=34671 | checks=3180457 | maxRSS=11460 KB
+Rep 7 -> Resultado global 3-SAT: SAT
+Rep 8 | Worker1 | x1=0 | SAT | t=0.00133358 s | nodos=1232 | checks=118606 | maxRSS=11460 KB
+Rep 8 | Worker2 | x1=1 | SAT | t=0.0980707 s | nodos=101675 | checks=9480622 | maxRSS=11460 KB
+Rep 8 -> Resultado global 3-SAT: SAT
+Rep 9 | Worker2 | x1=1 | UNSAT | t=0.0482413 s | nodos=55471 | checks=4867932 | maxRSS=11460 KB
+Rep 9 | Worker1 | x1=0 | UNSAT | t=0.072194 s | nodos=80875 | checks=7274589 | maxRSS=11460 KB
+Rep 9 -> Resultado global 3-SAT: UNSAT
+Rep 10 | Worker2 | x1=1 | UNSAT | t=0.0760009 s | nodos=71015 | checks=6637063 | maxRSS=11460 KB
+Rep 10 | Worker1 | x1=0 | UNSAT | t=0.116744 s | nodos=84709 | checks=7916134 | maxRSS=11460 KB
+Rep 10 -> Resultado global 3-SAT: UNSAT
+Rep 11 | Worker2 | x1=1 | UNSAT | t=0.129243 s | nodos=116391 | checks=10949490 | maxRSS=11460 KB
+Rep 11 | Worker1 | x1=0 | SAT | t=0.125442 s | nodos=107426 | checks=10326348 | maxRSS=11460 KB
+Rep 11 -> Resultado global 3-SAT: SAT
+Rep 12 | Worker1 | x1=0 | UNSAT | t=0.0341598 s | nodos=33553 | checks=3105827 | maxRSS=11460 KB
+Rep 12 | Worker2 | x1=1 | UNSAT | t=0.13188 s | nodos=119215 | checks=11353692 | maxRSS=11460 KB
+Rep 12 -> Resultado global 3-SAT: UNSAT
+Rep 13 | Worker2 | x1=1 | UNSAT | t=0.228799 s | nodos=182685 | checks=16261633 | maxRSS=11460 KB
+Rep 13 | Worker1 | x1=0 | UNSAT | t=0.52658 s | nodos=421081 | checks=37255433 | maxRSS=11460 KB
+Rep 13 -> Resultado global 3-SAT: UNSAT
+Rep 14 | Worker1 | x1=0 | UNSAT | t=0.0683988 s | nodos=52309 | checks=4890864 | maxRSS=11460 KB
+Rep 14 | Worker2 | x1=1 | UNSAT | t=0.0824023 s | nodos=64813 | checks=6084708 | maxRSS=11460 KB
+Rep 14 -> Resultado global 3-SAT: UNSAT
+Rep 15 | Worker2 | x1=1 | SAT | t=0.0246396 s | nodos=14675 | checks=1405042 | maxRSS=11460 KB
+Rep 15 | Worker1 | x1=0 | UNSAT | t=0.210013 s | nodos=145719 | checks=13721004 | maxRSS=11460 KB
+Rep 15 -> Resultado global 3-SAT: SAT
+Rep 16 | Worker1 | x1=0 | UNSAT | t=0.0418243 s | nodos=32907 | checks=3098076 | maxRSS=11460 KB
+Rep 16 | Worker2 | x1=1 | UNSAT | t=0.0854957 s | nodos=73179 | checks=6675098 | maxRSS=11460 KB
+Rep 16 -> Resultado global 3-SAT: UNSAT
+Rep 17 | Worker2 | x1=1 | UNSAT | t=0.133704 s | nodos=110527 | checks=9906911 | maxRSS=11460 KB
+Rep 17 | Worker1 | x1=0 | UNSAT | t=0.323261 s | nodos=279045 | checks=24881339 | maxRSS=11460 KB
+Rep 17 -> Resultado global 3-SAT: UNSAT
+Rep 18 | Worker1 | x1=0 | SAT | t=0.00815287 s | nodos=2063 | checks=202562 | maxRSS=11460 KB
+Rep 18 | Worker2 | x1=1 | UNSAT | t=0.0850584 s | nodos=54167 | checks=5010022 | maxRSS=11460 KB
+Rep 18 -> Resultado global 3-SAT: SAT
+Rep 19 | Worker1 | x1=0 | SAT | t=0.00157251 s | nodos=1198 | checks=120922 | maxRSS=11460 KB
+Rep 19 | Worker2 | x1=1 | UNSAT | t=0.0489989 s | nodos=27179 | checks=2596768 | maxRSS=11460 KB
+Rep 19 -> Resultado global 3-SAT: SAT
+
+===== RESUMEN MEDICION =====
+Tiempo total manager: 2.99098 s
+Promedio por repeticion: 0.149549 s
+Tiempo promedio de compute por worker: 0.106299 s
+Tiempo maximo de compute en un worker: 0.52658 s
+Repeticiones SAT: 10/20
+Nodos DPLL totales: 3663682
+Chequeos de clausulas totales: 337778267
+Max RSS observado: 11460 KB
+Mensajes MPI (aprox): 82
+Trafico MPI util (aprox): 2256 bytes
+============================
+	Command being timed: "mpirun -np 3 --hostfile hosts.txt ./sat3 --vars 30 --clauses 126 --reps 20 --seed 7 --csv-prefix exp1"
+	User time (seconds): 1.43
+	System time (seconds): 1.74
+	Percent of CPU this job got: 67%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.68
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14920
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3242
+	Voluntary context switches: 265
+	Involuntary context switches: 388
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 48
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
