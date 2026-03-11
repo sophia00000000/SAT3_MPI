@@ -36,9 +36,12 @@ Qué significa cada línea de logs:
 
 ejemplo ejecucción:
 
-                /usr/bin/time -v mpirun -np 3 --hostfile hosts.txt ./sat3 --vars 50 --clauses 250 --reps 20 --seed 7 --csv-prefix exp3 2>&1 | tee exp3.log
+        /usr/bin/time -v mpirun -np 3 --hostfile hosts.txt ./sat3 --vars 50 --clauses 250 --reps 20 --seed 7 --csv-prefix exp3 2>&1 | tee exp3.log
 
 ---
+
+### OPciones del programa:
+
 
         mpiuser@emisor-VirtualBox:~/cloud$ mpirun -np 3 ./sat3 --help
         Uso: ./sat3 [opciones]
